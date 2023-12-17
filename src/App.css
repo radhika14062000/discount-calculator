@@ -1,0 +1,16 @@
+.App{
+  background-color:rgb(164, 223, 209)
+}
+.col-4{
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  justify-content: space-evenly;
+  width: 300px;
+}
+
+.button{
+  display: flex;
+  justify-content: space-around;
+  
+}
